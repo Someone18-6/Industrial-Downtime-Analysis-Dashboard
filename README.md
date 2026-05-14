@@ -28,4 +28,5 @@ This project analyzes machine and factory downtime data to identify operational 
 Converted raw operational data into actionable insights using visualization techniques.
 
 ## Author
-Data analytics project
+KARANAM SHASANK
+
